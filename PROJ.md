@@ -20,6 +20,10 @@ They utilize the Matern kernel in the form below
 
 ## Test
 Running this package:
+* Get pkg
+```
+pkg> add https://github.com/vishwas1984/LaplaceInterpolation.jl
+```
 * Clone the repository using https://github.com/vishwas1984/LaplaceInterpolation.jl.git into jupyter notebooks
 * Navigate to /LaplaceInterpolation.jl/Notebooks
 * Run julia and paste the following to begin tests
